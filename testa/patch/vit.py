@@ -1,12 +1,7 @@
-# Copyright (c) Meta Platforms, Inc. and affiliates.
-# All rights reserved.
+'''
+Adapted from https://github.com/facebookresearch/ToMe
+'''
 
-# This source code is licensed under the license found in the
-# LICENSE file in the root directory of this source tree.
-# --------------------------------------------------------
-# References:
-# timm: https://github.com/rwightman/pytorch-image-models/tree/master/timm
-# --------------------------------------------------------
 from fairscale.nn.checkpoint.checkpoint_activations import checkpoint_wrapper
 from timm.models.layers import trunc_normal_, DropPath
 from typing import Tuple

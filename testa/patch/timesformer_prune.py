@@ -1,12 +1,6 @@
-# Copyright (c) Meta Platforms, Inc. and affiliates.
-# All rights reserved.
-
-# This source code is licensed under the license found in the
-# LICENSE file in the root directory of this source tree.
-# --------------------------------------------------------
-# References:
-# timm: https://github.com/rwightman/pytorch-image-models/tree/master/timm
-# --------------------------------------------------------
+'''
+Adapted from https://github.com/facebookresearch/ToMe
+'''
 
 
 from typing import Tuple

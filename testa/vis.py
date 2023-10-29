@@ -1,9 +1,7 @@
-# Copyright (c) Meta Platforms, Inc. and affiliates.
-# All rights reserved.
+'''
+Adapted from https://github.com/facebookresearch/ToMe
+'''
 
-# This source code is licensed under the license found in the
-# LICENSE file in the root directory of this source tree.
-# --------------------------------------------------------
 import copy
 import random
 from typing import List, Tuple
