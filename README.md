@@ -52,6 +52,10 @@ To be uploaded...
 ## Training and Evaluation
 Please refer to the [RUN.md](docs/RUN.md) for detailed instructions on training, evaluating and reproducing the results.
 
+## Todo list
+- [ ] Upload fine-tuned checkpoints
+- [ ] Add visualization code
+- [ ] Add demos
 
 ## Acknowledgement
 The codebase relies on resources from [BLIP](https://github.com/salesforce/BLIP), [ToMe](https://github.com/facebookresearch/ToMe),and [TimeSFormer](https://github.com/facebookresearch/TimeSformer). We thank the original authors for their open-sourcing.
