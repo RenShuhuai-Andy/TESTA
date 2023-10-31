@@ -1,5 +1,16 @@
 # TESTA: Temporal-Spatial Token Aggregation for Long-form Video-Language Understanding
 
+> [**TESTA: Temporal-Spatial Token Aggregation for Long-form Video-Language Understanding**](https://arxiv.org/abs/2310.19060)<br>
+> [Shuhuai Ren](https://renshuhuai-andy.github.io/), [Sishuo Chen](https://pkucss.github.io/), [Shicheng Li](https://lscpku.github.io/), [Xu Sun](https://xusun.org/index.htm), [Lu Hou](https://houlu369.github.io/)
+
+
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2310.19060) 
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/testa-temporal-spatial-token-aggregation-for/video-retrieval-on-queryd)](https://paperswithcode.com/sota/video-retrieval-on-queryd?p=testa-temporal-spatial-token-aggregation-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/testa-temporal-spatial-token-aggregation-for/video-retrieval-on-condensed-movies)](https://paperswithcode.com/sota/video-retrieval-on-condensed-movies?p=testa-temporal-spatial-token-aggregation-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/testa-temporal-spatial-token-aggregation-for/video-retrieval-on-didemo)](https://paperswithcode.com/sota/video-retrieval-on-didemo?p=testa-temporal-spatial-token-aggregation-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/testa-temporal-spatial-token-aggregation-for/video-question-answering-on-activitynet-qa)](https://paperswithcode.com/sota/video-question-answering-on-activitynet-qa?p=testa-temporal-spatial-token-aggregation-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/testa-temporal-spatial-token-aggregation-for/video-retrieval-on-activitynet)](https://paperswithcode.com/sota/video-retrieval-on-activitynet?p=testa-temporal-spatial-token-aggregation-for)
 
 # :rocket: News
 * **(Oct 29, 2023)** 
