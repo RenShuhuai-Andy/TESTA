@@ -18,7 +18,7 @@ For datasets that only provide urls, you may use [img2dataset](https://github.co
 - DiDeMo videos, https://github.com/LisaAnne/LocalizingMoments
 - Condensed Movies videos, https://github.com/m-bain/CondensedMovies
 
-We use the annotations provide by [VINDLU](https://github.com/klauscc/VindLU#data), the files can be found in [Google Drive](https://drive.google.com/drive/folders/12cr94wT8j7pR09AR2nmQg6o26Y1arI50).
+The annotations can be found in https://github.com/RenShuhuai-Andy/TESTA/releases/download/anno/annotations.zip
 
 Put your data following the following structure:
 ```bash
@@ -95,3 +95,7 @@ python data/compress.py \
 ```
 
 Note that the audio is also removed from the video files.
+
+### Acknowledgment
+
+[VINDLU](https://github.com/klauscc/VindLU#data)
