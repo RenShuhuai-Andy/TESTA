@@ -1,7 +1,7 @@
 # TESTA: Temporal-Spatial Token Aggregation for Long-form Video-Language Understanding
 
 > [**TESTA: Temporal-Spatial Token Aggregation for Long-form Video-Language Understanding**](https://arxiv.org/abs/2310.19060)<br>
-> [Shuhuai Ren](https://renshuhuai-andy.github.io/), [Sishuo Chen](https://pkucss.github.io/), [Shicheng Li](https://lscpku.github.io/), [Xu Sun](https://xusun.org/index.htm), [Lu Hou](https://houlu369.github.io/)
+> [Shuhuai Ren](https://renshuhuai-andy.github.io/), [Sishuo Chen](https://pkucss.github.io/), [Shicheng Li](https://lscpku.github.io/), [Xu Sun](https://xusun26.github.io/), [Lu Hou](https://houlu369.github.io/)
 
 
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2310.19060) 
@@ -96,11 +96,12 @@ If you have any questions, please feel free to create an issue on this repositor
 ## Citation
 If you find this code useful for your research, please consider citing:
 ```
-@inproceedings{Ren2023TESTA,
+@article{Ren2023TESTA,
   title={TESTA: Temporal-Spatial Token Aggregation for Long-form Video-Language Understanding},
   author={Shuhuai Ren and Sishuo Chen and Shicheng Li and Xu Sun and Lu Hou},
+  journal={ArXiv},
   year={2023},
-  journal={arXiv preprint arXiv:2310.19060},
+  volume={abs/2310.19060},
 }
 ```
 
